@@ -26,3 +26,5 @@ Develop a robust and accurate linear regression model to predict average YouTube
 ![Alt text](<Visualizations/Scatterplot of Video Views vs. Average Monthly  Earnings.png>)
 
 ![Alt text](<Visualizations/Top 10 Countries with the Most Subscribers.png>)
+
+![Alt text](<Visualizations/Correlation matrix.png>)
