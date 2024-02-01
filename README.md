@@ -70,9 +70,11 @@ $i).$ **Key Predictors of Average Monthly Earnings:** The independent variables 
 
 $ii).$ Since earning on a YouTube channel typically requires some level of activity (e.g., video uploads, subscriber engagement), the intercept value of $43,640 when all variables are zero may not be practically relevant for this model. <br>
 
-$iii).$ The model provides valuable insights into the factors influencing the average monthly earnings of a YouTube channel, with subscriber count and recent video views being the most influential variables. However, the negative impact of subscribers on earnings suggests a potential need for further investigation into subscriber engagement or other factors influencing this relationship.
+$iii).$ The model provides valuable insights into the factors influencing the average monthly earnings of a YouTube channel, with subscriber count and recent video views being the most influential variables. However, the negative impact of subscribers on earnings suggests a potential need for further investigation into subscriber engagement or other factors influencing this relationship.<br>
+$iv).$ The results from the ANOVA tests indicate that there is a statistically significant difference in average monthly earnings across different channel types and countries.
 
 ## **Recommendation**
 ---
 
-$i).$ Given that this project is based on a dataset comprising 995 records, it is advisable for future projects to consider incorporating a larger dataset to enhance the accuracy of the predictive model for individual YouTube earnings.
+$i).$ Given that this project is based on a dataset comprising 995 records, it is advisable for future projects to consider incorporating a larger dataset to enhance the accuracy of the predictive model for individual YouTube earnings.<br>
+$ii).$ Future projects should explore the the magnitude of both channel type and country on the average earning of a YouTube channel.
